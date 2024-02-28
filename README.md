@@ -1,2 +1,2 @@
 # odin-recipes
-Project: Recipes from OTP curriculum. 
+Project: Recipes from TOP curriculum. 
